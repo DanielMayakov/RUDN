@@ -8,5 +8,6 @@
 
     <modules>
         <module>RUDN-sample-app</module>
+        <module>RUDN-lesson-1</module>
     </modules>
 </project>
